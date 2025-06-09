@@ -28,12 +28,11 @@ An AI-powered tool that **generates, cleans, and optimizes CSS** while offering 
 
 ---
 
-## 💡 Sample Prompts to Try
+## 👤 Author
 
-```text
-"Optimize the following CSS"
-"Convert this navbar into Tailwind CSS"
-"Suggest improvements for this button style"
+**Swadha Dwivedi**  
+Final Year Project – Chrome Hate Speech Filter  
+[GitHub Profile](https://github.com/swadhadwivedi)
 
 ## 📦 Getting Started
 
@@ -42,3 +41,14 @@ git clone https://github.com/swadhadwivedi/css-optimizer-genai.git
 cd css-optimizer-genai
 npm install
 npm run dev
+
+```
+
+## 💡 Sample Prompts to Try
+
+```text
+"Optimize the following CSS"
+"Convert this navbar into Tailwind CSS"
+"Suggest improvements for this button style"
+```
+
