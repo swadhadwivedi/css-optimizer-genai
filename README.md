@@ -22,7 +22,7 @@ An AI-powered tool that **generates, cleans, and optimizes CSS** while offering 
 
 - **React.js**
 - **Tailwind CSS**
-- **OpenAI API / Together.ai**
+- **Together.ai API**
 - **Vite** (or CRA if applicable)
 - **CSS Parser & Formatter Tools**
 
